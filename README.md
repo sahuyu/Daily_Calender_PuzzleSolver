@@ -1,9 +1,9 @@
-# Daily_Calender_PuzzleSolver
+# Daily Calender PuzzleSolver
 Solver of different types of daily calender puzzles (Matlab live scripts)<br/>
 <br/>
-Please download the .mlx file.<br/>
-If you don't have Matlab licence, please download and install MATLAB Runtime instead.<br/>
-Using Matlab live scripts for interactive puzzle solving.<br/>
+Please download the ***.mlx*** file.<br/>
+If you don't have Matlab licence, please download and install ***MATLAB Runtime*** instead.<br/>
+Using ***Matlab live scripts*** for interactive puzzle solving.<br/>
 Not optimized, slower if compared with other Tilling PuzzleSolver.<br/>
 <br/>
 ## Puzzles included
@@ -41,7 +41,7 @@ Not optimized, slower if compared with other Tilling PuzzleSolver.<br/>
 | 31 | | | Mon | Tue | Wed |
 | | | Thu | Fri | Sat | Sun |
 
-<br>Daily Puzzle from LEGO IDEAS [(designed by bsx1990(张宁)](https://ideas.lego.com/projects/3904ad33-709e-4733-83cd-29e28762a7da) (**DailyPuzzle_LEGO_IDEAS**)<br/>
+<br>Daily Puzzle from LEGO IDEAS [(designed by bsx1990(张宁))](https://ideas.lego.com/projects/3904ad33-709e-4733-83cd-29e28762a7da) (**DailyPuzzle_LEGO_IDEAS**)<br/>
 <p style="line-height: 0.2;">
 ■&ensp;■&emsp;▨&ensp;■&ensp;■&emsp;▨&ensp;■&emsp;■&ensp;■&emsp;■&ensp;■&ensp;▨&emsp;■&ensp;■&ensp;■&emsp;■&ensp;■&ensp;■&ensp;■&emsp;■&ensp;■&ensp;■&ensp;■&emsp;■&ensp;■&ensp;▨&ensp;▨<br/>
 ■&ensp;■&emsp;■&ensp;■&ensp;▨&emsp;■&ensp;■&emsp;▨&ensp;■&emsp;▨&ensp;■&ensp;▨&emsp;■&ensp;▨&ensp;▨&emsp;■&ensp;▨&ensp;▨&ensp;▨&emsp;▨&ensp;■&ensp;▨&ensp;▨&emsp;▨&ensp;■&ensp;■&ensp;■<br/>
