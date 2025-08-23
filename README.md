@@ -58,8 +58,26 @@ Test in *Matlab R2021b*, with *Ghostscript 9.54.0*
 | Aug | Sep | 20 | 21 | 22 | 23 | 24 | 25 | 26 | Fri |
 | Oct | Nov | Dec | 27 | 28 | 29 | 30 | 31 | Sat | Sun |
 
+<br>Self-designed Daily Puzzle using Pentomino Pieces (**DailyPuzzle_Pentominoes**)<br/>
+<p style="line-height: 0.2;">
+■&ensp;▨&emsp;■&ensp;■&emsp;▨&ensp;■&ensp;▨&emsp;■&ensp;■&ensp;■&emsp;■&ensp;■&ensp;■&emsp;▨&ensp;▨&ensp;■&emsp;■&ensp;■&ensp;▨&emsp;▨&ensp;■&ensp;▨&emsp;<br/>
+■&ensp;■&emsp;▨&ensp;■&emsp;■&ensp;■&ensp;■&emsp;▨&ensp;■&ensp;▨&emsp;■&ensp;▨&ensp;▨&emsp;■&ensp;■&ensp;■&emsp;▨&ensp;■&ensp;■&emsp;■&ensp;■&ensp;■&emsp;<br/>
+■&ensp;■&emsp;■&ensp;■&emsp;▨&ensp;■&ensp;▨&emsp;▨&ensp;■&ensp;▨&emsp;■&ensp;▨&ensp;▨&emsp;■&ensp;▨&ensp;▨&emsp;▨&ensp;▨&ensp;■&emsp;■&ensp;▨&ensp;▨&emsp;<br/>
 <br/>
+■&ensp;■&ensp;■&ensp;■&emsp;■&ensp;■&ensp;■&ensp;■&emsp;■&ensp;■&ensp;▨&ensp;▨&emsp;■&ensp;■&ensp;■&ensp;■&ensp;■&emsp;<br/>
+■&ensp;▨&ensp;▨&ensp;▨&emsp;▨&ensp;■&ensp;▨&ensp;▨&emsp;▨&ensp;■&ensp;■&ensp;■&emsp;<br/>
 <p/>
+
+| Jan | Mar | Jun | Oct | Dec | 6 | 13 | 21 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Feb | May | Sep | | 5 | 12 | 20 | 27 |
+| Apr | Aug | X | 4 | 11 | 19 | 26 | 31 |
+| Jul | | 3 | 10 | 18 | 25 | 30 | |
+| Nov | 2 | 9 | 17 | | | | Sun |
+| 1 | 8 | 16 | 24 | | | | Sat |
+| 7 | 15 | 23 | 29 | | | | Fri |
+| 14 | 22 | 28 | | Mon | Tue | Wed | Thu |
+
 <br/>
 Hongsheng Yu<br/>
 Aug 23 2025<br/>
