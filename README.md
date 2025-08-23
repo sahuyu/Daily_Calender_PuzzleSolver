@@ -1,10 +1,13 @@
 # Daily Calender PuzzleSolver
 Solver of different types of daily calender puzzles (Matlab live scripts)<br/>
 <br/>
-Please download the ***.mlx*** file.<br/>
-If you don't have Matlab licence, please download and install ***MATLAB Runtime*** instead.<br/>
+Please download the ***.mlx*** file in each folder.<br/>
+Please download [***Ghostscript***](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases) if you want to save the solutino as .pdf.<br/>
+If you don't have Matlab licence, please download and install [***MATLAB Runtime***](https://www.mathworks.com/products/compiler/matlab-runtime.html).<br/>
 Using ***Matlab live scripts*** for interactive puzzle solving.<br/>
-Not optimized, slower if compared with other Tilling PuzzleSolver.<br/>
+Not optimized, slower if compared with other [Tilling PuzzleSolver](http://deyuan.github.io/TilingPuzzle/).<br/>
+<br/>
+Test in *Matlab R2021b*, with *Ghostscript 9.54.0*
 <br/>
 ## Puzzles included
 <br>DragonFjord's A-Puzzle-A-Day (**DailyPuzzle_v1**)<br/>
