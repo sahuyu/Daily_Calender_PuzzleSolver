@@ -1,4 +1,4 @@
-# Daily Calender PuzzleSolver
+# Daily Calender Puzzle Solver
 Solver of different types of daily calender puzzles (Matlab live scripts)<br/>
 <br/>
 Please download the ***.mlx*** file in each folder.<br/>
