@@ -1,5 +1,5 @@
-# Daily Calender Puzzle Solver
-Solver of different types of daily calender puzzles (Matlab live scripts)<br/>
+# Daily Calendar Puzzle Solver
+Solver of different types of daily calendar puzzles (Matlab live scripts)<br/>
 <br/>
 Please download the ***.mlx*** file in each folder.<br/>
 Please download [***Ghostscript***](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases) if you want to save the solutino as .pdf.<br/>
@@ -80,4 +80,4 @@ Test in *Matlab R2021b*, with *Ghostscript 9.54.0*
 
 <br/>
 Hongsheng Yu<br/>
-Aug 23 2025<br/>
+Sep 07 2025<br/>
